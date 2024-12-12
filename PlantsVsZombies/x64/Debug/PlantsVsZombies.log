@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\yijian\Desktop\PlantsVsZombies\main.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\yijian\Desktop\PlantsVsZombies\main.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  PlantsVsZombies.vcxproj -> C:\Users\yijian\Desktop\PlantsVsZombies\x64\Debug\PlantsVsZombies.exe
